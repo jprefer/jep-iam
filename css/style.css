@@ -74,8 +74,8 @@ a:hover {
 
 .bg-image {
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: auto;
+  
+  background-size: cover;
   background-position: center center;
 }
 
